@@ -1,9 +1,5 @@
 ![MasterHead](https://user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjQ5MDk3MTMsIm5iZiI6MTcyNDkwOTQxMywicGF0aCI6Ii83NDAzODE5MC8yNDAzMDQ1ODYtZDQ4ODkzYmQtMDc1Ny00ODFjLThkN2UtYmEzZTE2M2ZlYWU3LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA4MjklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwODI5VDA1MzAxM1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPThkZTAzYWExNmE0Yjc4OGJiMzc1MDNhYjgyNGEyOTRiZGZiZjBkZmM1NGFkZTI0NjBmZjRkMjcxNjg4ZDRmZTkmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0._Gu4IC_YN9Q9z9pDi4aQcfSIJyds6MnUn_r8il0qTH0)
 
-<div align="center">
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/ashwinmanoj97/ashwinmanoj97/output/github-contribution-grid-snake.svg" />
-</div>
-
 <!--![MasterHead](https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif)-->
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ashwin+Manoj!;" />
@@ -39,3 +35,8 @@
 <!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashwinmanoj97&show_icons=true&locale=en" alt="ashwinmanoj97" /></p> -->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashwinmanoj97&theme=react&border_radius=10" alt="ashwinmanoj97" /></p>
+
+<div align="center">
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/ashwinmanoj97/ashwinmanoj97/output/github-contribution-grid-snake.svg" />
+</div>
+
